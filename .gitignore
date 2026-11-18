@@ -4,6 +4,7 @@ xcuserdata/
 
 # App secrets — fill in Secrets.swift locally, never commit it
 QuPi/QuPi/Secrets.swift
+QuPi/Secrets.swift
 
 # macOS
 .DS_Store
